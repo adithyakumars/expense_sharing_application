@@ -1,6 +1,6 @@
 ### Step-by-Step Installation Instructions
 
-**Make sure the instance Folder before run the application**
+**Make sure the instance Folder remove before run the application**
 
 #### 1. **Set Up Your Project Environment**
 
